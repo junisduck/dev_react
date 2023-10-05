@@ -7,7 +7,7 @@ def divide(a, b):
     return result
 
 # 사용하지 않는 변수
-unused_variable = 42
+unused_variable = 45
 
 # 함수 정의가 없는 코드
 print("Hello, world!")
